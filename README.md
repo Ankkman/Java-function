@@ -1,2 +1,2 @@
-Java Function
+Java Functions
 
